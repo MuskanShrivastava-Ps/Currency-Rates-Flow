@@ -1,0 +1,78 @@
+*{
+    padding : 0px;
+    margin : 0px;
+}
+
+body{
+    background-color : rgb(214, 168, 176);
+    display : flex;
+    align-items : center;
+    justify-content : center;
+    width : 100vw;
+    height : 100vh;
+}
+
+.container{
+    background-color : rgb(253, 254, 255);
+    padding : 2rem;
+    border-radius : 1rem;
+    width : 30vw;
+    min-height : 45vh;
+}
+
+.padding{
+    margin-top : 20px;
+}
+
+form select,input,button{
+    width : 100%;
+    border : none;
+    outline : none;
+    border-radius : 0.75rem;
+}
+
+form input{
+    border : 1px solid lightgray;
+    padding : 4px;
+    font-size : 1rem;
+    height : 3rem;
+}
+
+.left,
+.right
+{
+    display : flex;
+    border : 1px solid lightgray;
+    border-radius : 0.75rem;
+    padding : 2px;
+    height : 2rem;
+    gap : 5px;
+}
+
+#from,
+#to
+{
+    height : 1.5rem;
+    margin-top : 4px;
+    padding : 3px;
+}
+
+.exchange{
+    display : flex;
+    justify-content : space-between;
+    align-items : center;
+}
+
+#icon{
+    font-size : 1.5rem;
+    margin-top : 1.5rem;
+}
+
+button{
+    font-size : 1rem;
+    background-color :rgb(158, 104, 209);
+    color : white;
+    height : 2.5rem;
+    cursor : pointer;
+}
+
