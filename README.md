@@ -43,11 +43,11 @@ Currency-Rates-Flow/
 
 ### Home Page
 
-![Home Page](./screenshots/home-page.png)
+![Home Page](./screenshots/Home-Page.png)
 
 ### Currency Conversion Example
 
-![Conversion Example](./screenshots/conversion-example.png)
+![Conversion Example](./screenshots/Conversion-result.png)
 
 
 ## How to Run Locally
